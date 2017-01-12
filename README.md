@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+My name is Kyle Christian. I am a programmer trapped in a laborer's body. I have been programming off and on as a hobby for 20 years. I started off with TC Lite and from their learned: C, C++, Java, HTML, DHTML, XML, XHTML, CSS, JavaScript, JSON, Perl, PHP, MySWL, ASP.NET. Now I am bound and determined to make this a profession. I am 39 years old and ain't getting any younger. I am currently doing the FreeCodeCamp bootcamp, but I do alot of independent study as well. I would like to use front end development as an entry point into programming.
